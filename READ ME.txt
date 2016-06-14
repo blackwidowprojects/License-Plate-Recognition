@@ -1,0 +1,5 @@
+Program runs in Xcode - MacOS
+
+Place licenseplate.txt onto your Desktop
+
+Open artRecognition in Xcode, and replace the /Users/brandonwidow/Desktop/licenseplate.txt with /Users/*yourname*/Desktop/licenseplate.txt
